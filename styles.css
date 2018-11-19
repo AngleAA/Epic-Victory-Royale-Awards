@@ -1,0 +1,56 @@
+img {
+width:300px;
+border:black 10px solid;
+}
+
+body{
+background-image: url(https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif);
+text-align:center;
+}
+
+.movie{
+ font-family:Anton;
+ font-size:50px;
+ color:white;
+ background-color:cyan;
+}
+
+.character{
+ font-family:Fjalla One;
+ font-size:50px;
+ color:white;
+ background-color:orange;
+}
+
+.game{
+ font-family:Abril Fatface;
+ font-size:50px;
+ color:white;
+ background-color:hotpink;
+}
+
+.epic{
+ font-family:Crete Round;
+ font-size:50px;
+ color:white;
+ background-color:violet;
+}
+
+h3{
+font-family:Play;
+color:white;
+}
+
+h2{
+font-family:Play;
+color:white;
+}
+
+h1{
+color:white;
+}
+
+p{
+font-family:Play;
+color:white;
+}
